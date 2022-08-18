@@ -1,0 +1,3 @@
+client,total_sites,total_has_title,total_title_with_four_or_more_words,total_title_changed,pct_with_title,pct_titles_four_or_more_words,pct_titles_changed_on_render
+desktop,5430532,5298247,3634652,198554,0.9756405081491095,0.6860102973681672,0.03747541403788838
+mobile,7940685,7755284,5430477,307281,0.9766517624109256,0.7002292888306862,0.039622146655106376

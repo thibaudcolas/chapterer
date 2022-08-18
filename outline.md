@@ -1,0 +1,45 @@
+- Introduction
+- Ease of reading
+  - Color contrast
+  - Zooming and scaling
+  - Language identification
+  - Font size and line height
+  - Focus Styles
+  - User preference media queries and high contrast support
+- Ease of page navigation
+  - Landmarks and page structure
+  - Document titles
+  - Secondary Navigation
+  - Tabindex
+  - Skip links
+  - Heading hierarchy
+  - Tables
+  - Table captions
+  - Tables for layout
+  - Tabs
+  - Captchas
+- Forms
+  - The `<label>` element
+  - The improper use of the `placeholder` attribute for labeling inputs
+  - Requiring information
+- Media on the web
+  - Overview of text alternatives
+    - Images
+    - Audio
+    - Video
+- Supporting assistive technology with ARIA
+  - ARIA roles
+  - Just use a button!
+  - Using presentation role
+  - Labelling and describing elements with ARIA
+    - Where do buttons get their accessible names from?
+  - Hiding content
+  - Screen reader-only text
+  - Dynamically-rendered content
+- Accessibility overlays
+  - The consequences of overlays
+  - Privacy concerns
+  - Overlays and lawsuits
+  - Why do some companies use overlays?
+  - Additional resources about overlays
+- Conclusion

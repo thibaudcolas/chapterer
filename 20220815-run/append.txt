@@ -1,0 +1,133 @@
+append spacer.json
+Data successfully appended to "Percentiles of lighthouse a11y score YoY"
+append spacer.json
+Data successfully appended to "% mobile sites with sufficient text color contrast with its background"
+append spacer.json
+Data successfully appended to "Viewport zoom scale"
+append spacer.json
+Data successfully appended to "Disabled zooming and scaling via the viewport tag by domain rank"
+append spacer.json
+Data successfully appended to "% of mobile sites with a valid html lang attribute"
+append spacer.json
+Data successfully appended to "Length units top properties - From CSS Chapter"
+append spacer.json
+Data successfully appended to "focus and outline 0 - From CSS chapter"
+append spacer.json
+Data successfully appended to "Prefers data - From CSS chapter"
+append spacer.json
+Data successfully appended to "sites using landmark elements or roles"
+append spacer.json
+Data successfully appended to "Page title stats"
+append spacer.json
+Data successfully appended to "Pages with search input"
+append spacer.json
+Data successfully appended to "Tabindex usage data"
+append spacer.json
+Data successfully appended to "% of pages having skip links"
+append spacer.json
+Data successfully appended to "Summary of all lighthouse scores for a category"
+append spacer.json
+Data successfully appended to "Table stats"
+append spacer.json
+Data successfully appended to "% of sites using each type of aria role"
+append spacer.json
+Data successfully appended to "Captcha usage"
+append spacer.json
+Data successfully appended to "Where input elements get their A11Y names from"
+append spacer.json
+Data successfully appended to "Form controls with placeholder but no label"
+append spacer.json
+Data successfully appended to "Various stats for required form controls"
+append spacer.json
+Data successfully appended to "Alt text ending in an image extension"
+append spacer.json
+Data successfully appended to "Most common lengths of alt text"
+append spacer.json
+Data successfully appended to "Audio elements track usage"
+append spacer.json
+Data successfully appended to "Video elements track usage"
+append spacer.json
+Data successfully appended to "Sites using the role attribute"
+append spacer.json
+Data successfully appended to "Anchors with role='button'"
+append spacer.json
+Data successfully appended to "How often pages contain an element with a given attribute"
+append spacer.json
+Data successfully appended to "Where button elements get their A11Y names from"
+append spacer.json
+Data successfully appended to "Sites using sr-only or visually-hidden classes"
+append spacer.json
+Data successfully appended to "A11Y technology usage"
+append spacer.json
+Data successfully appended to "A11Y technology usage by domain rank"
+append spacer.json
+Data successfully appended to "A11Y technology usage by rank"
+Append results: lighthouse_a11y_score.sql
+Data successfully appended to "Percentiles of lighthouse a11y score YoY"
+Append results: color_contrast.sql
+Data successfully appended to "% mobile sites with sufficient text color contrast with its background"
+Append results: viewport_zoom_scale.sql
+Data successfully appended to "Viewport zoom scale"
+Append results: viewport_zoom_scale_by_domain_rank.sql
+Data successfully appended to "Disabled zooming and scaling via the viewport tag by domain rank"
+Append results: valid_html_lang.sql
+Data successfully appended to "% of mobile sites with a valid html lang attribute"
+Append results: units_properties.sql
+Data successfully appended to "Length units top properties - From CSS Chapter"
+Append results: focus_outline_0.sql
+Data successfully appended to "focus and outline 0 - From CSS chapter"
+Append results: focus_visible.sql
+Data successfully appended to "focus and outline 0 - From CSS chapter"
+Append results: media_query_features.sql
+Data successfully appended to "Prefers data - From CSS chapter"
+Append results: landmark_elements_and_roles.sql
+Data successfully appended to "sites using landmark elements or roles"
+Append results: page_title.sql
+Data successfully appended to "Page title stats"
+Append results: pages_with_search_input.sql
+Data successfully appended to "Pages with search input"
+Append results: tabindex_usage_and_values.sql
+Data successfully appended to "Tabindex usage data"
+Append results: skip_links.sql
+Data successfully appended to "% of pages having skip links"
+Append results: lighthouse_a11y_audits.sql
+Data successfully appended to "Summary of all lighthouse scores for a category"
+Append results: table_stats.sql
+Data successfully appended to "Table stats"
+Append results: common_aria_role.sql
+Data successfully appended to "% of sites using each type of aria role"
+Append results: captcha_usage.sql
+Data successfully appended to "Captcha usage"
+Append results: form_input_name_sources.sql
+Data successfully appended to "Where input elements get their A11Y names from"
+Append results: placeholder_but_no_label.sql
+Data successfully appended to "Form controls with placeholder but no label"
+Append results: form_required_controls.sql
+Data successfully appended to "Various stats for required form controls"
+Append results: alt_ending_in_image_extension.sql
+Data successfully appended to "Alt text ending in an image extension"
+Append results: common_alt_text_length.sql
+Data successfully appended to "Most common lengths of alt text"
+Append results: audio_track_usage.sql
+Data successfully appended to "Audio elements track usage"
+Append results: video_track_usage.sql
+Data successfully appended to "Video elements track usage"
+Append results: sites_using_role.sql
+Data successfully appended to "Sites using the role attribute"
+Append results: anchors_with_role_button.sql
+Data successfully appended to "Anchors with role='button'"
+Append results: common_element_attributes.sql
+Data successfully appended to "How often pages contain an element with a given attribute"
+Append results: button_name_sources.sql
+Data successfully appended to "Where button elements get their A11Y names from"
+Append results: sr_only_classes.sql
+Data successfully appended to "Sites using sr-only or visually-hidden classes"
+Append results: a11y_technology_usage.sql
+Data successfully appended to "A11Y technology usage"
+Append results: a11y_technology_usage_by_domain_rank.sql
+Data successfully appended to "A11Y technology usage by domain rank"
+Append results: a11y_overall_tech_usage_by_domain_rank.sql
+Data successfully appended to "A11Y technology usage by rank"
+Append results: a11y_overall_tech_usage_by_domain_rank.sql
+Data successfully appended to "A11Y technology usage by rank"
+Data successfully appended to "% of sites using each type of aria role"

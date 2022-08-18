@@ -1,0 +1,15 @@
+client,total_buttons,button_name_source,total_with_this_source,perc_of_all_buttons
+desktop,1728104,contents,1052179,0.6088632397124247
+mobile,3111226,contents,1801192,0.5789331922528289
+mobile,3111226,attribute: aria-label,717868,0.23073476500903503
+desktop,1728104,attribute: aria-label,339190,0.1962786961895812
+mobile,3111226,No accessible name,368204,0.11834691533176954
+desktop,1728104,attribute: value,165316,0.09566322397263127
+desktop,1728104,No accessible name,157264,0.09100378217977621
+mobile,3111226,attribute: value,204836,0.06583771156450866
+desktop,1728104,attribute: title,11774,0.006813247350853884
+mobile,3111226,attribute: title,16755,0.005385336841489496
+desktop,1728104,relatedElement: aria-labelledby,1918,0.0011098869049547943
+mobile,3111226,relatedElement: aria-labelledby,1718,5.521938939826293E-4
+desktop,1728104,relatedElement: label,463,2.6792368977793E-4
+mobile,3111226,relatedElement: label,653,2.098851063857142E-4

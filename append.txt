@@ -1,0 +1,34 @@
+
+append spacer.json
+Appending data... !
+ ›   Error: Requested writing within range ['From Mobile Web: Disabled zooming and scaling via the viewport tag by domain rank'!A38], but tried writing to row
+ ›   [39]
+append spacer.json
+Appending data... !
+ ›   Error: Range ('Length units top properties - From CSS Chapter'!A1480) exceeds grid limits. Max rows: 1479, max columns: 41
+append spacer.json
+Appending data... !
+ ›   Error: Requested writing within range [':focus and outline:0 - From CSS chapter'!A19], but tried writing to row [20]
+append spacer.json
+Appending data... !
+ ›   Error: Range ('Most common lengths of alt text'!A4006) exceeds grid limits. Max rows: 4005, max columns: 27
+append spacer.json
+Appending data... !
+ ›   Error: Range ('How often pages contain an element with a given attribute'!A3561) exceeds grid limits. Max rows: 3560, max columns: 26
+
+Append results: viewport_zoom_scale_by_domain_rank.sql
+Appending data... !
+ ›   Error: Requested writing within range ['From Mobile Web: Disabled zooming and scaling via the viewport tag by domain rank'!A38], but tried writing to
+ ›   column [B]
+Append results: units_properties.sql
+Appending data... !
+ ›   Error: Range ('Length units top properties - From CSS Chapter'!A1480) exceeds grid limits. Max rows: 1479, max columns: 41
+Append results: focus_outline_0.sql
+Appending data... !
+ ›   Error: Requested writing within range [':focus and outline:0 - From CSS chapter'!A19], but tried writing to column [B]
+Append results: common_alt_text_length.sql
+Appending data... !
+ ›   Error: Range ('Most common lengths of alt text'!A4006) exceeds grid limits. Max rows: 4005, max columns: 27
+Append results: common_element_attributes.sql
+Appending data... !
+ ›   Error: Range ('How often pages contain an element with a given attribute'!A3561) exceeds grid limits. Max rows: 3560, max columns: 26

@@ -1,0 +1,19 @@
+{
+  "name": "chapterer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chapterer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "csv-parser": "^3.0.0",
+    "google-auth-library": "^8.1.1",
+    "google-sheet-cli": "^1.6.0",
+    "googleapis": "^105.0.0"
+  }
+}

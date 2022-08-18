@@ -1,0 +1,3 @@
+client,total_sites,sites_with_placeholder,sites_with_no_label,pct_sites_with_placeholder,pct_placeholder_sites_with_no_label,total_placeholders,total_placeholder_with_no_label,pct_placeholders_with_no_label
+desktop,5430532,3184518,2125400,0.586409950259017,0.6674165446701824,9831350,6003948,0.6106941569570812
+mobile,7940685,4406332,2961754,0.5549057795391708,0.6721586117432822,13732248,8607977,0.6268439806796382
