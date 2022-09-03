@@ -22,6 +22,10 @@ Button accessible name source
 an video https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/src/content/en/2021/accessibility.md#video
 Mobile sites with sufficient contrast color 2020 https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/src/content/en/2021/accessibility.md#color-contrast
 Asterick https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/src/content/en/2021/accessibility.md#requiring-information
+53.8 of desktop sites
+and 8.4%,100 cha
+ns used in all `jpg`
+required` us used by
 
 ## 2022
 
@@ -35,6 +39,7 @@ More YoY comparisons
 High contrast / forced colors
 pointer coarse / fine
 hover: hover media
+Lighthouse audit issues
 
 Unused 2021 queries:
 
