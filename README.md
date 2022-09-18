@@ -29,34 +29,25 @@ required` us used by
 
 ## 2022
 
-focus outline none
-Crawl beyond homepage? captcha_usage
-Modern file formats https://github.com/HTTPArchive/custom-metrics/blob/main/dist/a11y.js
-button_name_sources
-screen_reader_classes / sr_only_classes: Add more classes
-common_element_attributes live regions missing output element
 More YoY comparisons
-High contrast / forced colors
-pointer coarse / fine
-hover: hover media
-Lighthouse audit issues
+2021 vs. 2022 (mobile only)
 
-Unused 2021 queries:
+### Existing data
 
-alt_text_length.sql
-common_alt_text_length.sql
-common_audio_attributes.sql
-common_html_lang_attrib.sql
-common_video_attributes.sql
-div_span_with_button_or_link_role.sql
-duplicate_id.sql
-focus_outline_0_or_none.sql
-form_labels.sql
-pages_with_longest_alts.sql
-radio_checkbox_in_fieldset.sql
-same_page_links.sql
-shortcut_keys.sql
-sites_with_empty_alts.sql
-th_td_stats.sql
-title_used_with_alt.sql
-total_role_tab_with_selected_and_controls.sql
+- [ ] Usage of input device media queries: `hover`, `any-hover`, `pointer`
+- [ ] Usage of high-contrast media queries: `prefers-contrast`, `forced-colors`, `-ms-high-contrast`
+- [ ] The limitations of automated tests: issues spotted in Lighthouse audits (HTML lang attribute, bypass blocks, and other tests not working correctly)
+- [ ] Good news: largest changes in Lighthouse audit scores YoY (a few audits have great YoY increases in scores)
+
+### Existing queries
+
+`autocomplete` attribute usage and different values, to ease with forms completion
+`<output>` element usage: we currently don’t report on it in our section about live regions
+
+### New queries
+
+Alt text ending in an image extension, by CMS
+Most common lengths of alt text, by CMS
+% of sites using each type of aria role, by framework
+Lighthouse audit results, by CMS
+Lighthouse audit results, by framework

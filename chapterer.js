@@ -338,7 +338,7 @@ const categories = [
             description_2021:
               "Bar chart showing that of pages that use `tabindex`, a negative or zero `tabindex` is used on 96.9% of those pages for desktop and 97.4% of those pages for mobile, a `tabindex` of 0 is used on 68.2% and 68.3% respectively, a negative `tabindex` is used on 74.2% and 73.3%, and finally a positive `tabindex` is used on 8.7% and 7.7%.",
             description_2022:
-              "Bar chart showing that of pages that use `tabindex`, a negative or zero `tabindex` is used on 97.3% of those pages for desktop and 97.9% of those pages for mobile, a `tabindex` of 0 is used on 76.7% and 76.4% respectively, a negative `tabindex` is used on 69.1% and 69.4%, and finally a positive `tabindex` is used on 8.5% and 7.4%.",
+              "Bar chart showing that of pages that use `tabindex`, a `tabindex` of 0 is used on 76.7% of those pages for desktop  and 76.4% of those pages for mobile, a negative `tabindex` is used on 69.1% and 69.4% respectively, and finally a positive `tabindex` is used on 8.5% and 7.4%.",
             chart_url_2021:
               "https://docs.google.com/spreadsheets/d/e/2PACX-1vQf4cxIC7ywDV-K2RpfaTeCYI4URyJE1air8BCAxoOw7VW9MjGRQfwHuILvhw-6UmcWnsrAJ0-1TTD_/pubchart?oid=632373616&format=interactive",
             chart_url_2022:
@@ -349,6 +349,7 @@ const categories = [
             sql_file_2021: "tabindex_usage_and_values.sql",
             sql_file_2022: "tabindex_usage_and_values.sql",
             status: "Handover authors",
+            notes: "Updated in 2022 to exclude 'negative or zero' data point",
           },
         ],
         children: null,
@@ -368,10 +369,26 @@ const categories = [
             sql_file_2022: "skip_links.sql",
             status: "Handover authors",
             notes:
-              "By this definition, any hash link in the first four links of the page is a skip link (https://github.com/HTTPArchive/custom-metrics/blob/5d2f74fbdc580e76da5d1dad738fca8381429b9a/dist/almanac.js#L310)",
+              "Changed in 2022 from inline figure to big number. By this definition, any hash link in the first four links of the page is a skip link (https://github.com/HTTPArchive/custom-metrics/blob/5d2f74fbdc580e76da5d1dad738fca8381429b9a/dist/almanac.js#L310)",
           },
         ],
-        figure_markup: null,
+        figure_markup: [
+          {
+            caption_2021: "",
+            caption_2022:
+              "Mobile and desktop pages which likely have a skip link",
+            content_2021: "",
+            content_2022: "21%",
+            classes_2021: "big-number",
+            classes_2022: "big-number",
+            sheets_title: "% of pages having skip links",
+            sheets_gid_2021: "1767801208",
+            sheets_gid_2022: "1778743357",
+            sql_file_2021: "skip_links.sql",
+            sql_file_2022: "skip_links.sql",
+            status: "",
+          },
+        ],
         children: null,
       },
       {
@@ -582,16 +599,33 @@ const categories = [
                 caption_2021:
                   "57% of sites pass the test for images with alt text, a small increase from 54% the year before",
                 caption_2022:
-                  "58.7% of sites pass the test for images with alt text, a small increase from 57.8% in 20202 and 54% in 2019",
+                  "58.7% of sites pass the test for images with alt text, a small increase from 57.8% in 2021 and 54% in 2020",
                 sheets_title: "Summary of all lighthouse scores for a category",
                 sheets_gid_2021: "461215072",
                 sheets_gid_2022: "1270834582",
                 sql_file_2021: "lighthouse_a11y_audits.sql",
                 sql_file_2022: "lighthouse_a11y_audits.sql",
                 status: "Handover authors",
+                notes: "Converted to big number in 2022",
               },
             ],
             figure_markup: [
+              {
+                caption_2021: "",
+                caption_2022:
+                  "Mobile pages passing the Lighthouse image-alt audit for images with alt text",
+                content_2021: "",
+                content_2022: "58.7%",
+                classes_2021: "",
+                classes_2022: "big-number",
+                sheets_title: "Summary of all lighthouse scores for a category",
+                sheets_gid_2021: "461215072",
+                sheets_gid_2022: "1270834582",
+                sql_file_2021: "lighthouse_a11y_audits.sql",
+                sql_file_2022: "lighthouse_a11y_audits.sql",
+                status: "Handover authors",
+                notes: "New in 2022 (inline figure 2021)",
+              },
               {
                 image_2021: "pages-containing-alt-with-file-extension.png",
                 image_2022: "pages-containing-alt-with-file-extension.png",
