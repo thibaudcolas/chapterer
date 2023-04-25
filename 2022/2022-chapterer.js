@@ -5,20 +5,14 @@ const SHEET_2021 =
   "https://docs.google.com/spreadsheets/d/1WjAM5ZnHjMQt-rKyHvj2eVhU_WdzzFTjpoYWMr_I0Cw/edit";
 const SHEET_2022 =
   "https://docs.google.com/spreadsheets/d/1ladaKh6RbtMKQwkccwxDJGQf85KyhfLrtlM_9e9sLH8/edit";
-const SHEET_2023 =
-  "https://docs.google.com/spreadsheets/d/1D4XxOnM1mmLx1a89FfrGC2_nS9QxKSdCFLMs-fbAMsU/edit";
 const SQL_2021 =
   "https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/sql/2021/accessibility";
 const SQL_2022 =
   "https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/sql/2022/accessibility";
-const SQL_2023 =
-  "https://github.com/thibaudcolas/accessibility-almanac-2023/blob/main/sql";
 const IMG_2021 =
   "https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/src/static/images/2021/accessibility";
 const IMG_2022 =
   "https://github.com/HTTPArchive/almanac.httparchive.org/blob/main/src/static/images/2022/accessibility";
-const IMG_2023 =
-  "https://github.com/thibaudcolas/accessibility-almanac-2023/blob/main/images";
 
 const csvHeader = [
   "Category",

@@ -1,3 +1,7 @@
+# Chapterer
+
+Resources and scripts to query HTTP Archive data for the Web Almanac and other similar studies.
+
 https://cloud.google.com/docs/authentication/getting-started
 https://console.cloud.google.com/iam-admin/serviceaccounts/details/103487585366993320317/keys?project=httparchive-bigquery-351100&supportedpurview=project
 
